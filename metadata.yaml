@@ -1,0 +1,32 @@
+_repo: The-Governess--Or-The-Little-Female-Academy_1905
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fielding, Sarah
+    birthdate: 1710
+    deathdate: 1768
+    gutenberg_agent_id: '747'
+    url: http://www.gutenberg.org/2009/agents/747
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Fielding
+description: 'Being the history of Mrs. Teachum, and her nine girls. With their nine
+  days amusement: Calculated for the entertainment and instruction of young ladies
+  in their education.'
+gutenberg_issued: '1999-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1905'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls'' schools -- Fiction'
+- !lcsh 'Schools -- Fiction'
+- !lcsh 'School children -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Didactic fiction'
+- !lcc 'PZ'
+- !lcsh 'Governesses -- Fiction'
+- GITenberg
+title: The Governess; Or, The Little Female Academy
+url: http://www.gutenberg.org/ebooks/1905
