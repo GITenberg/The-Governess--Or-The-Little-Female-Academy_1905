@@ -1,5 +1,8 @@
 _repo: The-Governess--Or-The-Little-Female-Academy_1905
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fielding, Sarah
@@ -11,6 +14,8 @@ creator:
 description: 'Being the history of Mrs. Teachum, and her nine girls. With their nine
   days amusement: Calculated for the entertainment and instruction of young ladies
   in their education.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1905#The-Governess--Or-The-Little-Female-Academy
 gutenberg_issued: '1999-09-01'
 gutenberg_type: Text
 identifiers:
